@@ -1,6 +1,6 @@
 """
 This is an original design of Denniel Luis S. Sadian
-from Gasan, Marinduque, Philippines when August 5, 2017
+from Gasan, Marinduque, Philippines on August 5, 2017
 """
 
 import pygame
